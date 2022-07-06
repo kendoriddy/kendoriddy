@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kendoriddy
 - 👀 I’m interested in mobile and web development
-- 🌱 I’m currently learning React.Js and node.js
+- 🌱 I’m currently learning React.Js and Ruby
 - 💞️ I’m looking to collaborate on any project that can improve my skills
 - 📫 How to reach me ... Twitter: @RideOnOne09
 
