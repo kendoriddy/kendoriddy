@@ -8,8 +8,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kendoriddy)](https://github.com/kendoriddy/github-readme-stats)
 
-[![Kenny's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kendoriddy)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!---
 kendoriddy/kendoriddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
