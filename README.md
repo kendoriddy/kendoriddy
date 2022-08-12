@@ -6,7 +6,9 @@
 
 [![Kenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=kendoriddy&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/kendoriddy/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kendoriddy)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kendoriddy)](https://github.com/kendoriddy/github-readme-stats)
+
+[![Kenny's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kendoriddy)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
