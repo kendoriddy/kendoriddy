@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any project that can improve my skills
 - 📫 How to reach me ... LinkedIn: https://www.linkedin.com/in/kehindeonifade/
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kendoriddy)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kendoriddy&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
