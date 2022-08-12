@@ -1,15 +1,22 @@
-- 👋 Hi, I’m @kendoriddy
-- 👀 I’m interested in mobile and web development
-- 🌱 I’m currently learning React.Js and Ruby
-- 💞️ I’m looking to collaborate on any project that can improve my skills
-- 📫 How to reach me ... LinkedIn: https://www.linkedin.com/in/kehindeonifade/
+### 👋 &nbsp;Hi there, I am Kehinde Ridwan Onifade👋 🙇‍♂️  <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70">
+<img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
 
-[![Twitter Followers](https://img.shields.io/twitter/follow/sudo_overflow?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/rideonone09) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/CyrisXD?logo=GitHub&style=for-the-badge)](https://github.com/kendoriddy)
+I'm a software developer from Nigeria. I enjoy coding projects that solve unique problems. I also love combing the internet in search of random, informative and exciting news. You can find me on LinkedIn [@kehinde_onifade](https://www.linkedin.com/in/kehindeonifade/). Feel free to message me any time. You can also check out my portfolio [kennyonifade.netlify.app](https://kennyonifade.netlify.app/) and  for my blog.
 
-# 👋 &nbsp;Hi there
+```javascript
+const kennyOnifade = {
+  openTowork: true,
+  lookingFor:  "Front-end developer" || "Full-stack web developer",
+  pronouns: ["he", "him"],
+  code: [JavaScript, React JS, Semantic UI, Bootstrap, Tailwind CSS],
+  askMeAbout: [Football, Movies, Tech],
+  challenge: "I am honing my Javascript and React skills and picking up Ruby and Ruby on Rails",
+  funFacts: ['I talk to thousands of people at a time'],
+  reachMe: 'onifkay@gmail.com'
+}
+```
 
-I'm a software developer from Nigeria. I enjoy coding projects that solve unique problems. I also love combing the internet in search of random, informative and exciting news. You can find me on LinkedIn [@kehinde_onifade](https://www.linkedin.com/in/kehindeonifade/). Feel free to message me any time. You can also check out my portfolio [kennyonifade.netlify.app](https://kennyonifade.netlify.app/) for my blog and more.
-
+<h3 align="center">GitHub Statistics:</h3>
 [![Kenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=kendoriddy&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/kendoriddy/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kendoriddy)](https://github.com/kendoriddy/github-readme-stats)
