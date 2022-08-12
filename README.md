@@ -17,9 +17,6 @@ let kennyOnifade = {
 ```
 
 <h3 align="center">GitHub Statistics:</h3>
-[![Kenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=kendoriddy&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/kendoriddy/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kendoriddy)](https://github.com/kendoriddy/github-readme-stats)
 
 | <a href="https://github.com/kendoriddy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kendoriddy&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Kenny's github stats" /></a> | <a href="https://github.com/kendoriddy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kendoriddy&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
