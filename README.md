@@ -2,6 +2,7 @@
 
 I'm a software developer from Nigeria. I enjoy coding projects that solve unique problems. I also love combing the internet in search of random, informative and exciting news. You can find me on LinkedIn [@kehinde_onifade](https://www.linkedin.com/in/kehindeonifade/). Feel free to message me any time. You can also check out my portfolio [kennyonifade.netlify.app](https://kennyonifade.netlify.app/) and [medium.com/@onifkay](https://medium.com/@onifkay) for my blog.
 
+### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> A little more about me... 
 ```javascript
 let kennyOnifade = {
   openTowork: true,
