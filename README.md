@@ -4,7 +4,7 @@ I'm a software developer from Nigeria. I enjoy coding projects that solve unique
 
 ### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> A little more about me...
 
-<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" align="right" alt="coding" width="220" >
+<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" align="right" alt="coding" width="220" height="200" >
 
 ```javascript
 let kennyOnifade = {
