@@ -2,19 +2,24 @@
 
 I'm a software developer from Nigeria. I enjoy coding projects that solve unique problems. I also love combing the internet in search of random, informative and exciting news. You can find me on LinkedIn [@kehinde_onifade](https://www.linkedin.com/in/kehindeonifade/). Feel free to message me any time. You can also check out my portfolio [kennyonifade.netlify.app](https://kennyonifade.netlify.app/) and [medium.com/@onifkay](https://medium.com/@onifkay) for my blog.
 
-### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> A little more about me... 
+### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> A little more about me...
+
+<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" align="right" alt="coding" width="220" height="230" >
+
 ```javascript
 let kennyOnifade = {
   openTowork: true,
   lookingFor:  "Front-end developer" || "Full-stack web developer",
   pronouns: ["he", "him"],
   code: [JavaScript, React JS, Semantic UI, Bootstrap, Tailwind CSS],
-  askMeAbout: [Football, Movies, Tech],
+  askMeAbout: [Tech, Startups, Entrepreneur],
   challenge: "I am honing my Javascript and React skills and picking up Ruby and Ruby on Rails",
   funFacts: ['I talk to thousands of people at a time'],
   reachMe: 'onifkay@gmail.com'
 }
 ```
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=john-kibirige&label=Profile%20views&color=0e75b6&style=flat" alt="john-kibirige" /> </p>
 
 <h3 align="center">GitHub Statistics:</h3>
 
