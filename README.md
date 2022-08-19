@@ -19,7 +19,7 @@ let kennyOnifade = {
 }
 ```
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=john-kibirige&label=Profile%20views&color=0e75b6&style=flat" alt="john-kibirige" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=john-kibirige&label=Profile%20views&color=0e75b6&style=flat" alt="kenny-onifade" /> </p>
 
 <h3 align="center">GitHub Statistics:</h3>
 
