@@ -15,6 +15,7 @@ let kennyOnifade = {
   askMeAbout: [Tech, Startups, Entrepreneur],
   challenge: "I am honing my Javascript and React skills and picking up Ruby and Ruby on Rails",
   funFacts: ['I talk to thousands of people at a time'],
+  blog: 'https://medium.com/@onifkay',
   reachMe: 'onifkay@gmail.com'
 }
 ```
