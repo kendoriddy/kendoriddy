@@ -20,7 +20,6 @@ let kennyOnifade = {
 }
 ```
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=john-kibirige&label=Profile%20views&color=0e75b6&style=flat" alt="kenny-onifade" /> </p>
 
 <p align="center"> <a href="https://github.com/kendoriddy/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kendoriddy" alt="kendoriddy" /></a> </p>
