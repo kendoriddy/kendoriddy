@@ -49,6 +49,8 @@ href="https://twitter.com/rideonone09"><img
 src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <div/>
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kendoriddy) 
+
 <p>You can check out my portfolio <a href="https://kennyonifade.netlify.app">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
 
 
