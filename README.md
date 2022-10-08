@@ -1,5 +1,4 @@
 ### 👋 &nbsp; Hi there, I am Kehinde Ridwan Onifade👋 🙇‍♂️  <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70">
-
 <div align="center">
 <img src ="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+My+Profile!+%F0%9F%98%80" ></div>
 
