@@ -47,7 +47,7 @@ let kennyOnifade = {
 | <a href="https://github.com/kendoriddy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kendoriddy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Kenny's github stats" /></a> | <a href="https://github.com/kendoriddy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kendoriddy&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kendoriddy) 
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=kendoriddy) 
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kendoriddy&theme=radical" alt="KendoRiddy" /></p>
   
