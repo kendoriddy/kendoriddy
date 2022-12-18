@@ -2,7 +2,7 @@
 <div align="center">
 <img src ="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+My+Profile!+%F0%9F%98%80" ></div>
 
-<p>I'm a software developer from Nigeria. I enjoy coding projects that solve unique problems. I also love combing the internet in search of random, informative and exciting news. You can find me on LinkedIn <a href="https://www.linkedin.com/in/kehindeonifade/">@Kehinde Onifade</a>. Feel free to message me any time. You can check out my portfolio <a href="https://kennyonifade.netlify.app">here</a> and my blog <a href="https://medium.com/@onifkay">here.</a></p>
+<p>I'm a software developer from Nigeria. I enjoy coding projects that solve unique problems. I also love combing the internet in search of random, informative and exciting news. You can find me on LinkedIn <a href="https://www.linkedin.com/in/kehindeonifade/">@Kehinde Ridwan Onifade</a>. Feel free to message me any time. You can check out my portfolio <a href="https://kennyonifade.netlify.app">here</a> and my blog <a href="https://medium.com/@onifkay">here.</a></p>
 
 ### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> A little more about me...
 
