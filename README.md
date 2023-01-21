@@ -13,10 +13,12 @@ let kennyOnifade = {
   openTowork: true,
   lookingFor:  "Front-end developer" || "Full-stack web developer",
   pronouns: ["he", "him"],
-  stack: [JavaScript, React JS, Semantic UI, SASS, Bootstrap, Tailwind CSS, MaterialUI, Ruby, Ruby on Rails],
+  stack: [JavaScript, React JS, Semantic UI, SASS, Bootstrap, Tailwind CSS,
+  MaterialUI, Ruby, Ruby on Rails],
   askMeAbout: [Tech, Startups, Entrepreneur],
-  challenge: "I am honing my Javascript and React skills and picking up Ruby and Ruby on Rails",
-  funFacts: ['I talk to thousands of people at a time'],
+  challenge: "I am honing my Javascript and React skills and picking up Ruby
+  and Ruby on Rails",
+  funFacts: ['I love MARVEL heroes'],
   blog: 'https://medium.com/@onifkay',
   reachMe: 'onifkay@gmail.com'
 }
