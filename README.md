@@ -17,7 +17,8 @@ let kennyOnifade = {
   MaterialUI, Ruby, Ruby on Rails],
   askMeAbout: [Tech, Startups, Entrepreneurship],
   challenge: "I am honing my Data Structures and Algorithms skills",
-  funFacts: ['I love MARVEL heroes'],
+  funFacts: ['When the problem is complexity, the cure might just be simplicity',
+  'The first computer programmer was a woman named Ada Lovelace'],
   blog: 'https://medium.com/@onifkay',
   reachMe: 'onifkay@gmail.com'
 }
