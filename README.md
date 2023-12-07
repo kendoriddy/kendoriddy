@@ -12,7 +12,6 @@
 let kennyOnifade = {
   openTowork: true,
   lookingFor:  "Front-end developer" || "Full-stack web developer",
-  pronouns: ["he", "him"],
   stack: [JavaScript, React JS, Semantic UI, SASS, Bootstrap, Tailwind CSS,
   MaterialUI, Ruby, Ruby on Rails],
   askMeAbout: [Tech, Startups, Entrepreneurship],
